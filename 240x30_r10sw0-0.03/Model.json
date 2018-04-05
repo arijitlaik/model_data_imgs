@@ -1,6 +1,6 @@
 {
     "Tref": "273.15 kelvin", 
-    "elementRes": "240, 30", 
+    "elementRes": "480, 60", 
     "elementType": "Q1/dQ0", 
     "gravity": "0.0, -9.81 meter / second ** 2", 
     "materials": [
@@ -211,7 +211,7 @@
     }, 
     "velocityBCs": {
         "bottom": "-1.0 centimeter / year, 0.0", 
-        "left": "[(<underworld.function._function.less_equal object at 0x7fefe2914bd0>, -1.0), (True, 0.0)], 0.0", 
+        "left": "[(<underworld.function._function.less_equal object at 0x7fad780c7dd0>, -1.0), (True, 0.0)], 0.0", 
         "right": "-1.0 centimeter / year, None", 
         "top": "None, None"
     }
